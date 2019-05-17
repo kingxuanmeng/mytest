@@ -6,7 +6,7 @@
 <form id="fileuploadForm" action="/spring-mvc/uploads" method="POST" enctype="multipart/form-data" class="cleanform">
 			<label for="file">File</label>
 			<input id="file" type="file" name="file" />
-			<p><button type="submit">Upload</button></p>		
+			<p><button type="submit">上传</button></p>		
 </form>
 </body>
 </html>
