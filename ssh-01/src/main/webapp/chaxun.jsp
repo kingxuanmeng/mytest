@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="user/search">查询</a>
+	<a href="user/search">查询用户</a>
 </body>
 </html>
